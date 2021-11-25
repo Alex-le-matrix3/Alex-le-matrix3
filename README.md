@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alex-le-matrix3
+- 👀 I’m interested in codage more precisely in js and html
+- 🌱 I’m currently learning js and html
